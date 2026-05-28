@@ -4,7 +4,8 @@ You must've used splitwise to track your group expenses. This will be a step ahe
 
 ### Current status:
 - Users and Group models (DB) are made.
-- JWT Authentication enabled
+- JWT Authentication enabled.
+- Users creation, groups creation and listing, adding members to group.
 
 ### Current Tech stack
 - Python
@@ -13,7 +14,6 @@ You must've used splitwise to track your group expenses. This will be a step ahe
 - PostgreSQL
 
 ### Next task:
-- feature of adding members in a group
 - the main EXPENSE MANAGEMENT ENGINE
 - expense sharing equally, by %, by amount
 - Personal Expense manager
