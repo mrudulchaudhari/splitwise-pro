@@ -3,7 +3,7 @@ You must've used splitwise to track your group expenses. This will be a step ahe
 
 
 ### Current status:
-- Users and Group models (DB) are made.
+- Users ,Group and Expense models (DB) are made.
 - JWT Authentication enabled.
 - Users creation, groups creation and listing, adding members to group.
 
